@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpringClient</string>
+    <string name="form_nombre">Nombre</string>
+    <string name="form_ubicacion">Ubicacion</string>
+    <string name="form_puesto">Puesto</string>
+    <string name="guardar_empleado">Guardar</string>
+
+</resources>
